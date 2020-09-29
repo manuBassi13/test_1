@@ -1,4 +1,4 @@
-## Ejercicio práctico de asimilación de git
+## Ejercicio práctico de asimilación de git  La versión actual 1.0.0
 
 Soy alumno de la matería "Ingenieria de Software"  - UCEL - año 2020
 
